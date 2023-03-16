@@ -1,5 +1,15 @@
 [
   {
+    "id": 2303,
+    "title": "Policy Updates: New Wear OS App Quality Requirements",
+    "created_at": "2023-02-28T16:32:00Z",
+    "source": "Android Developers",
+    "description": "oday we are announcing upcoming policy changes intended to improve the quality of apps for Wear OS and their presentation in the Google Play Store. ",
+    "favorite": false,
+    "hero_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVviCwvyzix33x3GBKtuFuXHOivMjeQP5FrEX8df4khO7Y6KSKwdAqBIRmac1eN5T9EIMbwATiUxqjjnOoMZow-T458ZZadL0fpwy901_pNLayQ-wLUAm8w0W2OyNZk_6KAYPwHOLqKcu9bLnpoc8K-3RIQvNeRV11iSzBSL2U20bRnb89EXghEHBs/s1600/Android%20-%20Policy%20Updates-%20Improving%20Wear%20App%20Quality-header.png",
+    "link": "https://android-developers.googleblog.com/2023/02/policy-updates-new-wear-os-app-quality-requirements.html"
+  },
+  {
     "id": 1200,
     "title": "McDonald's Spent $300 Million On Its Own Version of the Non-Chronological Feed",
     "created_at": "2019-03-28T16:32:00Z",
